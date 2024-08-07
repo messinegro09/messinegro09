@@ -1,7 +1,6 @@
 ## hi there my name Raiwillians
 ## Estou estudando Alura
-## Estou aprendendo mais sobre a tecnologia
-## Eu gosto de Lucas de geografia 👋
+## Estou aprendendo mais sobre a tecnologia 👋
 
 <!--
 **messinegro09/messinegro09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
